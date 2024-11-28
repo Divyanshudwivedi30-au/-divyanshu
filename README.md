@@ -1,2 +1,2 @@
 # -divyanshu
-This is first repository of git and github
+This is my first repository.
